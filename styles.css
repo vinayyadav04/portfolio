@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.sidebar{
+    background-color: red;
+    width: 15vw;
+    font-family: "Gill Sans", sans-serif;
+}
+.sidebar nav{
+    padding: 40px;
+}
+.sidebar nav li{
+    list-style:  none;
+    font-size: 25px;
+    padding: 95px 0;
+}
+.main{
+    background-color: brown;
+    width: 90vw;
+}
+
+.container{
+    display : flex;
+}
